@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "808530690923",
+    "firebase_url": "https://lombok-b96e6.firebaseio.com",
+    "project_id": "lombok-b96e6",
+    "storage_bucket": "lombok-b96e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808530690923:android:d42c7b2e3f807797",
+        "android_client_info": {
+          "package_name": "com.omhh.lombok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808530690923-tq386s1srf0afjs28r3rg3f2gsd5sgpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omhh.lombok",
+            "certificate_hash": "12bb178d935f7c118ff0fa632bd8c2137d5e53d4"
+          }
+        },
+        {
+          "client_id": "808530690923-gtj6o58bpjb3r11qdu1f4o0gvmvp44bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDk_Fp2Nv_NMQUCbm9cOsehil0dnLFglk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808530690923-gtj6o58bpjb3r11qdu1f4o0gvmvp44bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
