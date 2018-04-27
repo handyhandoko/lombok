@@ -22,7 +22,7 @@ android {
     }
 }
 
-ext{
+ext {
     androidSupportVersion = '27.1.1'
     butterknifeVersion = '8.8.1'
     firebaseVersion = '11.8.0'
@@ -39,6 +39,7 @@ dependencies {
     implementation "com.google.firebase:firebase-auth:$firebaseVersion"
     implementation "com.google.firebase:firebase-database:$firebaseVersion"
     implementation "com.google.firebase:firebase-config:$firebaseVersion"
+    implementation 'com.android.support:design:27.1.1'
     testImplementation 'junit:junit:4.12'
     annotationProcessor "com.jakewharton:butterknife-compiler:$butterknifeVersion"
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
